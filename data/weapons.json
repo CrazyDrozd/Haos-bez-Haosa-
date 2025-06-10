@@ -1,0 +1,77 @@
+[
+	{
+		"id": 1,
+		"name": "Bare-Handed",
+		"attack": 0
+	},
+	{
+		"id": 2,
+		"name": "Kitchen Knife",
+		"attack": 4
+	},
+	{
+		"id": 3,
+		"name": "Medieval Sword",
+		"attack": 8
+	},
+	{
+		"id": 4,
+		"name": "Mosin-Nagant Rifle",
+		"attack": 11
+	},
+	{
+		"id": 5,
+		"name": "Outlaw Sabre",
+		"attack": 7
+	},
+	{
+		"id": 6,
+		"name": "Frying Pan",
+		"attack": 7
+	},
+	{
+		"id": 7,
+		"name": "Baseball Bat",
+		"attack": 9
+	},
+	{
+		"id": 8,
+		"name": "Cleaver",
+		"attack": 6
+	},
+	{
+		"id": 9,
+		"name": "Grim Reaper Scythe",
+		"attack": 17
+	},
+	{
+		"id": 10,
+		"name": "Machete",
+		"attack": 10
+	},
+	{
+		"id": 11,
+		"name": "Ballistic Shield",
+		"attack": 12
+	},
+	{
+		"id": 12,
+		"name": "Dagger",
+		"attack": 5
+	},
+	{
+		"id": 13,
+		"name": "Morning Star",
+		"attack": 11
+	},
+	{
+		"id": 14,
+		"name": "Rocket Launcher",
+		"attack": 22
+	},
+	{
+		"id": 15,
+		"name": "Suitcase",
+		"attack": 3
+	}
+]

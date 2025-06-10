@@ -1,0 +1,35 @@
+{
+	"prototypeInfo": {
+		"name": "Haos bez Haosa!",
+		"version": "1.1",
+		"buildDate": "09.06.2025",
+		"author": "CrazyDrozd",
+		"description": "This prototype was made for practising classes, objects, attributes, methods and other Object-Oriented Programming stuff.\nIn the future I might experiment with inheritancy and polymorphism. Might also check incapsulation, too."
+	},
+	"gameData": {
+		"types": ["Anarchist", "Doctor", "Knight", "Journalist", "Boxer", "Soldier", "Robber", "Occultist", "Vampire", "Werewolf", "Scientist", "Mobster", "Athlete", "Meditator", "Cop"],
+		"firstNames": ["Ethan", "Hazel", "Danil", "Juan", "Matthew", "Montgomery", "Pavel", "Olivia", "Kristina", "Elizabeth", "Zachary", "Kowalski", "Wendy", "Tompson", "Mister Y"],
+		"secondNames": ["Pieters", "Boca", "Grey", "Wood", "Shani", "Williams", "Carey", "Tyn", "Hees", "Renima", "Obscurus", "Svet", "Cooper", "Dagon", "Duskstalker"],
+		"armor": ["Trashcan Lid", "Wooden Shield", "Knight Armor", "Arm Guards", "Springlock Suit", "Wooden Box", "Light Vest", "Holy Armor", "Extremely Warm Coat", "Raincoat", "Gentleman Hat", "Monocle", "Ushanka", "Heavy Vest"],
+		"descriptions": ["what the bwast.", 
+			"War of thoughts. Battle of mind.",
+			"Fun Fact: This prototype is probably the best written thing Drozd ever wrote.", 
+			"Memorix still hits different, though", 
+			"hallo, mai favorit fallowers,\ntoday wi r gonna explor som bilding and find some mondsters to kuestion", 
+			"drozd casually bugs every game he plays is hilarious", 
+			"you should check out The Phantom Way, by the way", 
+			"oh cholera, czy to freddy fazbear? UHR UHR UHR UHR UHR UHR",
+			"it`s a me, monsder investigater!",
+			"oh no! its mister forc again and its mister spider!!!!",
+			"uhh, my head hurts",
+			"uhm, can you say that again?",
+			"remember January 18th 2025. always remember.",
+			"Teleport failed due to an unexpected error.\nPlease try teleporting again! (Error Code: 779)",
+			"Same account launched experience from a different device.\nLeave the experience on the another device and try again. (Error Code: 264)",
+			"speedrunning garlic cloves until I pass out, leess gooooo!!!",
+			"*Insert a joke about Drozd ping*",
+			"We're not talking on what happened on 24th December 2024",
+			":sob_144p:"
+		]
+	}
+}
