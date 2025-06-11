@@ -10,7 +10,6 @@
 		"types": ["Anarchist", "Doctor", "Knight", "Journalist", "Boxer", "Soldier", "Robber", "Occultist", "Vampire", "Werewolf", "Scientist", "Mobster", "Athlete", "Meditator", "Cop"],
 		"firstNames": ["Ethan", "Hazel", "Danil", "Juan", "Matthew", "Montgomery", "Pavel", "Olivia", "Kristina", "Elizabeth", "Zachary", "Kowalski", "Wendy", "Tompson", "Mister Y"],
 		"secondNames": ["Pieters", "Boca", "Grey", "Wood", "Shani", "Williams", "Carey", "Tyn", "Hees", "Renima", "Obscurus", "Svet", "Cooper", "Dagon", "Duskstalker"],
-		"armor": ["Trashcan Lid", "Wooden Shield", "Knight Armor", "Arm Guards", "Springlock Suit", "Wooden Box", "Light Vest", "Holy Armor", "Extremely Warm Coat", "Raincoat", "Gentleman Hat", "Monocle", "Ushanka", "Heavy Vest"],
 		"descriptions": ["what the bwast.", 
 			"War of thoughts. Battle of mind.",
 			"Fun Fact: This prototype is probably the best written thing Drozd ever wrote.", 

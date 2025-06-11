@@ -1,77 +1,114 @@
 [
 	{
-		"id": 1,
+		"id": "wB_01_bh",
+		"type": "Blunt",
 		"name": "Bare-Handed",
+		"description": "A regular punch, what else to say?",
 		"attack": 0
 	},
 	{
-		"id": 2,
+		"id": "wS_01_kk",
+		"type": "Slashing",
 		"name": "Kitchen Knife",
+		"description": "One of the basic tools used during a cooking.",
 		"attack": 4
 	},
 	{
-		"id": 3,
+		"id": "wS_02_ms",
+		"type": "Slashing",
 		"name": "Medieval Sword",
+		"description": "This seems to be stolen from a museum?",
 		"attack": 8
 	},
 	{
-		"id": 4,
+		"id": "wP_01_mnr",
+		"type": "Piercing",
 		"name": "Mosin-Nagant Rifle",
+		"description": "This rifle was greatly used during the Great War.",
 		"attack": 11
 	},
 	{
-		"id": 5,
+		"id": "wS_03_os",
+		"type": "Slashing",
 		"name": "Outlaw Sabre",
+		"description": "A weapon that is known by its filthy wielders.",
 		"attack": 7
 	},
 	{
-		"id": 6,
+		"id": "wB_02_fp",
+		"type": "Blunt",
 		"name": "Frying Pan",
+		"description": "Be careful when it is heated!",
 		"attack": 7
 	},
 	{
-		"id": 7,
+		"id": "wB_03_bb",
+		"type": "Blunt",
 		"name": "Baseball Bat",
+		"description": "BONK!",
 		"attack": 9
 	},
 	{
-		"id": 8,
+		"id": "wS_04_c",
+		"type": "Slashing",
 		"name": "Cleaver",
+		"description": "I do not think you are a butcher to use that.",
 		"attack": 6
 	},
 	{
-		"id": 9,
+		"id": "wS_05_grs",
+		"type": "Slashing",
 		"name": "Grim Reaper Scythe",
+		"description": "Where did you even get that?",
 		"attack": 17
 	},
 	{
-		"id": 10,
+		"id": "wS_06_m",
+		"type": "Slashing",
 		"name": "Machete",
+		"description": "Pfft, Jason cosplay.",
 		"attack": 10
 	},
 	{
-		"id": 11,
+		"id": "wB_04_bs",
+		"type": "Blunt",
 		"name": "Ballistic Shield",
+		"description": "I do not get it? Are you attacking or defending yourself?",
 		"attack": 12
 	},
 	{
-		"id": 12,
+		"id": "wS_07_d",
+		"type": "Slashing",
 		"name": "Dagger",
+		"description": "Has an advantage of quick slashes",
 		"attack": 5
 	},
 	{
-		"id": 13,
+		"id": "wB_05_ms",
+		"type": "Blunt",
 		"name": "Morning Star",
+		"description": "You do not wanna be woken up by that.",
 		"attack": 11
 	},
 	{
-		"id": 14,
+		"id": "wP_02_rl",
+		"type": "Piercing",
 		"name": "Rocket Launcher",
+		"description": "KABOOM! There goes your tower, watch it crumble!",
 		"attack": 22
 	},
 	{
-		"id": 15,
+		"id": "wB_06_s",
+		"type": "Blunt",
 		"name": "Suitcase",
+		"description": "Why is that a weapon...",
 		"attack": 3
+	},
+	{
+		"id": "wS_08_ss",
+		"type": "Piercing",
+		"name": "Short Sword",
+		"description": "Basic weapon of any adventurer!",
+		"attack": 6
 	}
 ]

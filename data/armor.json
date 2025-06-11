@@ -1,7 +1,170 @@
 [
 	{
-		"id": 0,
-		"name": 0,
-		"defence": 0
+		"id": "a_01_tl",
+		"name": "Trashcan Lid",
+		"description": "Well... better than nothing?",
+		"defence": 1,
+		"resistances%": {
+			"Blunt%": 0, 
+			"Slashing%": 0, 
+			"Piercing%": 0, 
+			"Otherwordly%": 0
+		}
+	},
+	{
+		"id": "a_02_ws",
+		"name": "Wooden Shield",
+		"description": "Well used against arrows!",
+		"defence": 2,
+		"resistances%": {
+			"Blunt%": 0, 
+			"Slashing%": 0, 
+			"Piercing%": 0, 
+			"Otherwordly%": 0
+		}
+	},
+	{
+		"id": "a_03_ag",
+		"name": "Arm Guards",
+		"description": "So you would not lose your arms.",
+		"defence": 4,
+		"resistances%": {
+			"Blunt%": 0, 
+			"Slashing%": 0, 
+			"Piercing%": 0, 
+			"Otherwordly%": 0
+		}
+	},
+	{
+		"id": "a_04_ss",
+		"name": "Springlock Suit",
+		"description": "Its been so long..",
+		"defence": 10,
+		"resistances%": {
+			"Blunt%": 0, 
+			"Slashing%": 0, 
+			"Piercing%": 0, 
+			"Otherwordly%": 0
+		}
+	},
+	{
+		"id": "a_05_wb",
+		"name": "Wooden Box",
+		"description": "Who would ever put that on their head??",
+		"defence": 1,
+		"resistances%": {
+			"Blunt%": 0, 
+			"Slashing%": 0, 
+			"Piercing%": 0, 
+			"Otherwordly%": 0
+		}
+	},
+	{
+		"id": "a_06_ewc",
+		"name": "Extremely Warm Coat",
+		"description": "Helpful against harsh Russian winters.",
+		"defence": 3,
+		"resistances%": {
+			"Blunt%": 0, 
+			"Slashing%": 0, 
+			"Piercing%": 0, 
+			"Otherwordly%": 0
+		}
+	},
+	{
+		"id": "a_07_r",
+		"name": "Raincoat",
+		"description": "Against the heavy rain.",
+		"defence": 1,
+		"resistances%": {
+			"Blunt%": 0, 
+			"Slashing%": 0, 
+			"Piercing%": 0, 
+			"Otherwordly%": 0
+		}
+	},
+	{
+		"id": "a_08_m",
+		"name": "Monocle",
+		"description": "Gives you a lot of accuracy, or money, I dunno.",
+		"defence": 0,
+		"resistances%": {
+			"Blunt%": 0, 
+			"Slashing%": 0, 
+			"Piercing%": 0, 
+			"Otherwordly%": 0
+		}
+	},
+	{
+		"id": "a_09_u",
+		"name": "Ushanka",
+		"description": "Ive got vodka in my blood, so I dance with brown bears, and my soul is torn apart..",
+		"defence": 2,
+		"resistances%": {
+			"Blunt%": 0, 
+			"Slashing%": 0, 
+			"Piercing%": 0, 
+			"Otherwordly%": 0
+		}
+	},
+	{
+		"id": "a_10_ka",
+		"name": "Knight Armor",
+		"description": "Do you also follow an oath?",
+		"defence": 7,
+		"resistances%": {
+			"Blunt%": 0, 
+			"Slashing%": 0, 
+			"Piercing%": 0, 
+			"Otherwordly%": 0
+		}
+	},
+	{
+		"id": "a_11_ha",
+		"name": "Holy Armor",
+		"description": "OO, feeling much more confident than before?",
+		"defence": 15,
+		"resistances%": {
+			"Blunt%": 0, 
+			"Slashing%": 0, 
+			"Piercing%": 0, 
+			"Otherwordly%": 0
+		}
+	},
+	{
+		"id": "a_12_lv",
+		"name": "Light Vest",
+		"description": "Basic equipment, I suppose.",
+		"defence": 4,
+		"resistances%": {
+			"Blunt%": 0, 
+			"Slashing%": 0, 
+			"Piercing%": 0, 
+			"Otherwordly%": 0
+		}
+	},
+	{
+		"id": "a_13_hv",
+		"name": "Heavy Vest",
+		"description": "Let us hope that it will handle all the hits.",
+		"defence": 8,
+		"resistances%": {
+			"Blunt%": 0, 
+			"Slashing%": 0, 
+			"Piercing%": 0, 
+			"Otherwordly%": 0
+		}
+	},
+	{
+		"id": "a_14_gh",
+		"name": "Gentleman Hat",
+		"description": "Makes you look like a gentleman!",
+		"defence": 1,
+		"resistances%": {
+			"Blunt%": 0, 
+			"Slashing%": 0, 
+			"Piercing%": 0, 
+			"Otherwordly%": 0
+		}
 	}
 ]
